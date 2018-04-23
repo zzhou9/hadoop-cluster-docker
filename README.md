@@ -67,5 +67,5 @@ sudo ./start-container.sh 5
 
 ##### 4. run hadoop cluster 
 
-do 5~6 like section A
+do 5 like section A
 
